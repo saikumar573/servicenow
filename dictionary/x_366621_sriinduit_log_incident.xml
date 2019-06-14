@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident" max_length="40" name="x_366621_sriinduit_log_incident" sizeclass="5" type="collection">
+        <element choice="1" label="contype " max_length="40" name="contype" type="choice">
+            <choice/>
+        </element>
+        <element label="HISTORY" max_length="4000" name="history" type="journal"/>
+        <element label="request date" max_length="100" name="request_date" type="glide_date_time"/>
+        <element label="return date" max_length="100" name="return_date" type="glide_date_time"/>
+        <element choice="1" label="select from following" max_length="40" name="select_from_following" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Email" value="email"/>
+                <element inactive_on_update="false" label="Phone" value="phone"/>
+            </choice>
+        </element>
+    </element>
+</database>

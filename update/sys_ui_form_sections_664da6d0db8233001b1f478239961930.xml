@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="664da6d0db8233001b1f478239961930" sys_domain="global" table="x_366621_sriinduit_log_incident" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:08:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a4da6d0db8233001b1f478239961932</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366621_sriinduit_log_incident" name="x_366621_sriinduit_log_incident" sys_domain="global" view="Default view">664da6d0db8233001b1f478239961930</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366621_sriinduit_log_incident" sys_domain="global" view="Default view">125ba250db8233001b1f478239961941</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 08:59:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:08:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>624de6d0db8233001b1f47823996192c</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366621_sriinduit_log_incident" name="x_366621_sriinduit_log_incident" sys_domain="global" view="Default view">664da6d0db8233001b1f478239961930</sys_ui_form>
+            <sys_ui_section caption="use info" display_value="use info" name="x_366621_sriinduit_log_incident" sys_domain="global" view="Default view">224da6d0db8233001b1f47823996192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 08:59:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:08:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e4de6d0db8233001b1f47823996192f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366621_sriinduit_log_incident" name="x_366621_sriinduit_log_incident" sys_domain="global" view="Default view">664da6d0db8233001b1f478239961930</sys_ui_form>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366621_sriinduit_log_incident" sys_domain="global" view="Default view">2a4da6d0db8233001b1f47823996192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 06:51:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_366621_sriinduit_log_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:08:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>664da6d0db8233001b1f478239961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366621_sriinduit_log_incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sriinduit" source="x_366621_sriinduit">61f7a6dcdb4233001b1f478239961907</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sriinduit">61f7a6dcdb4233001b1f478239961907</sys_scope>
+            <sys_update_name>sys_ui_form_sections_664da6d0db8233001b1f478239961930</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:08:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

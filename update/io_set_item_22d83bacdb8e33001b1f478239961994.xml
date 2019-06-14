@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="sales lap top">39729b24db4e33001b1f4782399619fa</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:17:05</sys_created_on>
+        <sys_id>22d83bacdb8e33001b1f478239961994</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>hardware set.sales lap top</sys_name>
+        <sys_package display_value="sriinduit" source="x_366621_sriinduit">61f7a6dcdb4233001b1f478239961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriinduit">61f7a6dcdb4233001b1f478239961907</sys_scope>
+        <sys_update_name>io_set_item_22d83bacdb8e33001b1f478239961994</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:17:05</sys_updated_on>
+        <variable_set display_value="hardware set">3c83b3e8db8e33001b1f47823996193c</variable_set>
+    </io_set_item>
+</record_update>

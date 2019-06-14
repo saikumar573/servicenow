@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="select_from_following" label="select from following" language="en" table="x_366621_sriinduit_log_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>select_from_following</element>
+            <help/>
+            <hint/>
+            <label>select from following</label>
+            <language>en</language>
+            <name>x_366621_sriinduit_log_incident</name>
+            <plural>select from followings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:30:17</sys_created_on>
+            <sys_id>86423a94db8233001b1f4782399619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>select from following</sys_name>
+            <sys_package display_value="sriinduit" source="x_366621_sriinduit">61f7a6dcdb4233001b1f478239961907</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sriinduit">61f7a6dcdb4233001b1f478239961907</sys_scope>
+            <sys_update_name>sys_documentation_x_366621_sriinduit_log_incident_select_from_following_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:30:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

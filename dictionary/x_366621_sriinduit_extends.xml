@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="extends" max_length="40" name="x_366621_sriinduit_extends" type="collection"/>
+</database>
